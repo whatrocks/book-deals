@@ -38,7 +38,6 @@ def search_email():
             elif in_middle_grade_section:
                 # We're in the Middle Grade Fiction section, so add the line to our list
                 middle_grade_fiction_paragraphs.append(line)
-        break
     return middle_grade_fiction_paragraphs
 
 if __name__ == '__main__':
