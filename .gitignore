@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ezgmail
+credentials.json
+token.json
+
 # C extensions
 *.so
 

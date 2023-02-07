@@ -9,6 +9,8 @@ source .env/bin/activate
 pip install -r requirements.txt
 ```
 
+Follow this guide to set up project on Google from [ezgmail repo](https://github.com/asweigart/ezgmail)
+
 ## usage
 
 ```bash
